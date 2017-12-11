@@ -1,0 +1,88 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {section}{Supplementary Figures}{2}{section*.2}
+\contentsline {section}{Supplementary Tables}{3}{section*.3}
+\contentsline {section}{Supplementary Discussion}{3}{section*.4}
+\contentsline {subsection}{Cultural Theory: Background and Justification}{3}{section*.5}
+\contentsline {section}{Supplementary Methods}{4}{section*.6}
+\contentsline {subsection}{Obtaining Grid and Group scores from the World Values Survey Wave 6 (2010-2014)}{4}{section*.7}
+\contentsline {subsection}{Validation of Grid-Group positions}{6}{section*.8}
+\contentsline {subsection}{Validation of the WVS and GCG results: Murray-Darling Basin surveys}{7}{section*.9}
+\contentsline {subsection}{Murray-Darling Basin surveys: sample collection}{8}{section*.10}
+\contentsline {subsection}{ODD+D Model Documentation}{9}{section*.11}
+\contentsline {subsubsection}{ODD+D: Overview}{10}{section*.12}
+\contentsline {paragraph}{I.i Purpose }{10}{section*.13}
+\contentsline {paragraph}{I.i.a What is the purpose of the study?}{10}{section*.14}
+\contentsline {paragraph}{I.i.b For whom is the model designed?}{11}{section*.15}
+\contentsline {paragraph}{I.ii Entities, state variables, and scales}{11}{section*.16}
+\contentsline {paragraph}{I.ii.a What kinds of entities are in the model?}{11}{section*.17}
+\contentsline {paragraph}{I.ii.b By what attributes (i.e. state variables and parameters) are these entitiescharacterized?}{11}{section*.18}
+\contentsline {paragraph}{I.ii.c What are the exogenous factors / drivers of the model?}{12}{section*.19}
+\contentsline {paragraph}{I.ii.d If applicable, how is space included in the model?}{12}{section*.20}
+\contentsline {paragraph}{I.ii.e What are the temporal and spatial resolutions and extents of the model?}{12}{section*.21}
+\contentsline {subsubsection}{ODD+D: Design Concepts}{13}{section*.22}
+\contentsline {paragraph}{I.iii Process overview and scheduling}{13}{section*.23}
+\contentsline {paragraph}{I.iii.a What entity does what, and in what order?}{13}{section*.24}
+\contentsline {paragraph}{II.i Theoretical and Empirical Background}{13}{section*.25}
+\contentsline {paragraph}{II.i.a Which general concepts, theories or hypotheses are underlying the model's design at the system level or at the level(s) of the sub model(s) (apart from the decision model)? What is the link to complexity and the purpose of the model?}{13}{section*.26}
+\contentsline {paragraph}{II.i.b On what assumptions is/are the agents' decision model(s) based?}{13}{section*.27}
+\contentsline {paragraph}{II.i.c Why is a/are certain decision model(s) chosen?}{13}{section*.28}
+\contentsline {paragraph}{II.i.d If the model / a submodel (e.g. the decision model) is based on empirical data, where does the data come from?}{14}{section*.29}
+\contentsline {paragraph}{II.i.e At which level of aggregation were the data available?}{14}{section*.30}
+\contentsline {paragraph}{II.ii Individual Decision Making}{15}{section*.31}
+\contentsline {paragraph}{II.ii.a What are the subjects and objects of decision-making? On which level of aggregation is decision-making modelled? Are multiple levels of decision making included?}{15}{section*.32}
+\contentsline {paragraph}{II.ii.b What is the basic rationality behind agents' decision-making in the model? Do agents pursue an explicit objective or have other success criteria?}{15}{section*.33}
+\contentsline {paragraph}{II.ii.c How do agents make their decisions?}{15}{section*.34}
+\contentsline {paragraph}{II.ii.d Do the agents adapt their behaviour to changing endogenous and exogenous state variables? And if yes, how?}{15}{section*.35}
+\contentsline {paragraph}{II.ii.e Do social norms or cultural values play a role in the decision-making process?}{16}{section*.36}
+\contentsline {paragraph}{II.ii.f Do spatial aspects play a role in the decision process?}{16}{section*.37}
+\contentsline {paragraph}{II.ii.g Do temporal aspects play a role in the decision process?}{16}{section*.38}
+\contentsline {paragraph}{II.ii.h To which extent and how is uncertainty included in the agents' decision rules?}{16}{section*.39}
+\contentsline {paragraph}{II.iii Learning}{16}{section*.40}
+\contentsline {paragraph}{II.iii.a Is individual learning included in the decision process? How do individuals change their decision rules over time as consequence of their experience?}{16}{section*.41}
+\contentsline {paragraph}{II.iii.b Is collective learning implemented in the model?}{16}{section*.42}
+\contentsline {paragraph}{II.iv Individual Sensing}{16}{section*.43}
+\contentsline {paragraph}{II.iv.a What endogenous and exogenous state variables are individuals assumed to sense and consider in their decisions? Is the sensing process erroneous?}{17}{section*.44}
+\contentsline {paragraph}{II.iv.b What state variables of which other individuals can an individual perceive? Is the sensing process erroneous?}{17}{section*.45}
+\contentsline {paragraph}{II.iv.c What is the spatial scale of sensing?}{17}{section*.46}
+\contentsline {paragraph}{II.iv.d Are the mechanisms by which agents obtain information modelled explicitly, or are individuals simply assumed to know these variables?}{17}{section*.47}
+\contentsline {paragraph}{II.iv.e Are costs for cognition and costs for gathering information inclu\IeC {\discretionary {-}{}{}}ded in the model?}{17}{section*.48}
+\contentsline {paragraph}{II.v Individual Prediction}{17}{section*.49}
+\contentsline {paragraph}{II.v.a Which data uses the agent to predict future conditions?}{17}{section*.50}
+\contentsline {paragraph}{II.v.b What internal models are agents assumed to use to estimate future conditions or consequences of their decisions?}{17}{section*.51}
+\contentsline {paragraph}{II.v.c Might agents be erroneous in the prediction process, and how is it implemented?}{17}{section*.52}
+\contentsline {paragraph}{II.vi Interaction}{18}{section*.53}
+\contentsline {paragraph}{II.vi.a Are interactions among agents and entities assumed as direct or indirect?}{18}{section*.54}
+\contentsline {paragraph}{II.vi.b On what do the interactions depend?}{18}{section*.55}
+\contentsline {paragraph}{II.vi.c If the interactions involve communication, how are such communications represented?}{18}{section*.56}
+\contentsline {paragraph}{II.vi.d If a coordination network exists, how does it affect the agent behaviour? Is the structure of the network imposed or emergent?}{18}{section*.57}
+\contentsline {paragraph}{II.vii Collectives}{18}{section*.58}
+\contentsline {paragraph}{II.vii.a Do the individuals form or belong to aggregations that affect, and are affected by, the individuals? Are these aggregations imposed by the modeller or do they emerge during the simulation?}{18}{section*.59}
+\contentsline {paragraph}{II.vii.b How are collectives represented?}{18}{section*.60}
+\contentsline {paragraph}{II.viii Heterogeneity}{18}{section*.61}
+\contentsline {paragraph}{II.viii.a Are the agents heterogeneous? If yes, which state variables and/or processes differ between the agents?}{18}{section*.62}
+\contentsline {paragraph}{II.viii.b Are the agents heterogeneous in their decision-making? If yes, which decision models or decision objects differ between the agents?}{18}{section*.63}
+\contentsline {paragraph}{II.ix Stochasticity}{18}{section*.64}
+\contentsline {paragraph}{II.ix.a What processes (including initialisation) are modelled by assuming they are random or partly random?}{19}{section*.65}
+\contentsline {paragraph}{II.x Observation}{19}{section*.66}
+\contentsline {paragraph}{II.x.a What data are collected from the ABM for testing, understanding, and analyzing it, and how and when are they collected?}{19}{section*.67}
+\contentsline {paragraph}{II.x.b What key results, outputs or characteristics of the model are emerging from the individuals? (Emergence)}{19}{section*.68}
+\contentsline {subsubsection}{ODD+D: Details}{19}{section*.69}
+\contentsline {paragraph}{III.i Implementation Details}{19}{section*.70}
+\contentsline {paragraph}{III.i.a How has the model been implemented?}{20}{section*.71}
+\contentsline {paragraph}{III.i.b Is the model accessible and if so where?}{20}{section*.72}
+\contentsline {paragraph}{III.ii Initialisation}{20}{section*.73}
+\contentsline {paragraph}{III.ii.a What is the initial state of the model world, i.e. at time t=0 of a simulation run?}{20}{section*.74}
+\contentsline {paragraph}{III.ii.b Is initialization always the same, or is it allowed to vary among simulations?}{21}{section*.75}
+\contentsline {paragraph}{III.ii.c Are the initial values chosen arbitrarily or based on data?}{21}{section*.76}
+\contentsline {paragraph}{III.iii Input Data}{21}{section*.77}
+\contentsline {paragraph}{III.iii.a Does the model use input from external sources such as data files or other models to represent processes that change over time?}{21}{section*.78}
+\contentsline {paragraph}{III.iv Submodels}{21}{section*.79}
+\contentsline {paragraph}{III.iv.a What, in detail, are the sub-models that represent the processes listed in `Process overview and scheduling'?}{21}{section*.80}
+\contentsline {paragraph}{III.iv.b What are the model parameters, their dimensions and reference values?}{22}{section*.81}
+\contentsline {paragraph}{III.iv.c How were sub-models designed or chosen, and how were they parameterised and then tested?}{22}{section*.82}
+\contentsline {subsubsection}{Institutional submodel}{22}{section*.83}
+\contentsline {subsubsection}{Agent decision submodel}{23}{section*.84}
+\contentsline {subsubsection}{Economic sub-model}{24}{section*.85}
+\contentsline {subsubsection}{Social sub-model}{25}{section*.86}
+\contentsline {subsubsection}{Groundwater sub-model}{26}{section*.87}
+\contentsline {section}{Supplementary References}{41}{table.caption.100}

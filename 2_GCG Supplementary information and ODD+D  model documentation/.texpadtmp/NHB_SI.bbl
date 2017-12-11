@@ -1,0 +1,1558 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\sortlist[entry]{none/global/}
+  \entry{Douglas:2004um}{book}{}
+    \name{author}{1}{}{%
+      {{hash=DM}{%
+         family={Douglas},
+         family_i={D\bibinitperiod},
+         given={Mary},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{DM1}
+    \strng{fullhash}{DM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Natural symbols: Explorations in cosmology}}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Henrich:2006gj}{article}{}
+    \name{author}{14}{}{%
+      {{hash=HJ}{%
+         family={Henrich},
+         family_i={H\bibinitperiod},
+         given={Joseph},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={McElreath},
+         family_i={M\bibinitperiod},
+         given={Richard},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Barr},
+         family_i={B\bibinitperiod},
+         given={Abigail},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=EJ}{%
+         family={Ensminger},
+         family_i={E\bibinitperiod},
+         given={Jean},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Barrett},
+         family_i={B\bibinitperiod},
+         given={Clark},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bolyanatz},
+         family_i={B\bibinitperiod},
+         given={Alexander},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=CJC}{%
+         family={Cardenas},
+         family_i={C\bibinitperiod},
+         given={Juan-Camilo},
+         given_i={J\bibinitperiod-C\bibinitperiod},
+      }}%
+      {{hash=GM}{%
+         family={Gurven},
+         family_i={G\bibinitperiod},
+         given={Michael},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=GE}{%
+         family={Gwako},
+         family_i={G\bibinitperiod},
+         given={Edwins},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Henrich},
+         family_i={H\bibinitperiod},
+         given={Natalie},
+         given_i={N\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lesorogol},
+         family_i={L\bibinitperiod},
+         given={Carolyn},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Marlowe},
+         family_i={M\bibinitperiod},
+         given={Frank},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Tracer},
+         family_i={T\bibinitperiod},
+         given={David},
+         given_i={D\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Ziker},
+         family_i={Z\bibinitperiod},
+         given={John},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJMRBAEJBCBACJCGMGEHNLCMFTDZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5781}
+    \field{pages}{1767\bibrangedash 1770}
+    \field{title}{{Costly punishment across human societies.}}
+    \field{volume}{312}
+    \field{journaltitle}{Science}
+    \field{month}{06}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Chai:2009vz}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CSK}{%
+         family={Chai},
+         family_i={C\bibinitperiod},
+         given={Sun-Ki},
+         given_i={S\bibinitperiod-K\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Liu},
+         family_i={L\bibinitperiod},
+         given={Ming},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=KMS}{%
+         family={Kim},
+         family_i={K\bibinitperiod},
+         given={Min-Sun},
+         given_i={M\bibinitperiod-S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CSK+1}
+    \strng{fullhash}{CSKLMKMS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{193\bibrangedash 208}
+    \field{title}{{Cultural comparisons of beliefs and values: Applying the
+  grid-group approach to the World Values Survey}}
+    \field{volume}{1}
+    \field{journaltitle}{Beliefs and Values}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Verweij:2000tx}{article}{}
+    \name{author}{1}{}{%
+      {{hash=VM}{%
+         family={Verweij},
+         family_i={V\bibinitperiod},
+         given={Marco},
+         given_i={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VM1}
+    \strng{fullhash}{VM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1\bibrangedash 272}
+    \field{title}{{Transboundary environmental problems and cultural theory:
+  the protection of the Rhine and the Great Lakes}}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Rotmans:1997td}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RJ}{%
+         family={Rotmans},
+         family_i={R\bibinitperiod},
+         given={Jan},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=dVB}{%
+         prefix={de},
+         prefix_i={d\bibinitperiod},
+         family={Vries},
+         family_i={V\bibinitperiod},
+         given={Bert},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJdVB1}
+    \strng{fullhash}{RJdVB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{1\bibrangedash 479}
+    \field{title}{{Perspectives on global change: The TARGETS approach}}
+    \field{year}{1997}
+  \endentry
+
+  \entry{Verweij:2015cr}{article}{}
+    \name{author}{4}{}{%
+      {{hash=VM}{%
+         family={Verweij},
+         family_i={V\bibinitperiod},
+         given={Marco},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=STJ}{%
+         family={Senior},
+         family_i={S\bibinitperiod},
+         given={Timothy\bibnamedelima J},
+         given_i={T\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DDJF}{%
+         family={Dom{\'\i}nguez\bibnamedelima D},
+         family_i={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={Juan\bibnamedelima F},
+         given_i={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=TR}{%
+         family={Turner},
+         family_i={T\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VM+1}
+    \strng{fullhash}{VMSTJDDJFTR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{123}
+    \field{pages}{169}
+    \field{title}{{Emotion, rationality, and decision-making: how to link
+  affective and social neuroscience with social theory}}
+    \field{volume}{9}
+    \field{journaltitle}{Front. Neurosci.}
+    \field{month}{09}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Hoekstra:2000il}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HAY}{%
+         family={Hoekstra},
+         family_i={H\bibinitperiod},
+         given={Arjen\bibnamedelima Y},
+         given_i={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HAY1}
+    \strng{fullhash}{HAY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6}
+    \field{pages}{605\bibrangedash 622}
+    \field{title}{{Appreciation of water: four perspectives}}
+    \field{volume}{1}
+    \field{journaltitle}{Water Policy}
+    \field{month}{03}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Offermans:2011ja}{article}{}
+    \name{author}{3}{}{%
+      {{hash=OA}{%
+         family={Offermans},
+         family_i={O\bibinitperiod},
+         given={Astrid},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Haasnoot},
+         family_i={H\bibinitperiod},
+         given={Marjolijn},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Valkering},
+         family_i={V\bibinitperiod},
+         given={P},
+         given_i={P},
+      }}%
+    }
+    \strng{namehash}{OA+1}
+    \strng{fullhash}{OAHMVP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5}
+    \field{pages}{312\bibrangedash 324}
+    \field{title}{{A method to explore social response for sustainable water
+  management strategies under changing conditions}}
+    \field{volume}{19}
+    \field{journaltitle}{Sust. Dev.}
+    \field{month}{09}
+    \field{year}{2011}
+  \endentry
+
+  \entry{ORiordan:1999ko}{article}{}
+    \name{author}{2}{}{%
+      {{hash=OT}{%
+         family={O{\textquoteright}Riordan},
+         family_i={O\bibinitperiod},
+         given={Timothy},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jordan},
+         family_i={J\bibinitperiod},
+         given={Andrew},
+         given_i={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OTJA1}
+    \strng{fullhash}{OTJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{81\bibrangedash 93}
+    \field{title}{{Institutions, climate change and cultural theory: towards a
+  common analytical framework}}
+    \field{volume}{9}
+    \field{journaltitle}{Global Environmental Change}
+    \field{month}{07}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Caulkins:1999fz}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CDD}{%
+         family={Caulkins},
+         family_i={C\bibinitperiod},
+         given={D\bibnamedelima D},
+         given_i={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CDD1}
+    \strng{fullhash}{CDD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{108\bibrangedash 128}
+    \field{title}{{Is Mary Douglas's Grid/Group Analysis Useful for
+  Cross-Cultural Research?}}
+    \field{volume}{33}
+    \field{journaltitle}{Cross-Cultural Research}
+    \field{month}{02}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Grendstad:1999cp}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GG}{%
+         family={Grendstad},
+         family_i={G\bibinitperiod},
+         given={Gunnar},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GG2}
+    \strng{fullhash}{GG2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{463\bibrangedash 475}
+    \field{title}{{A political cultural map of Europe. A survey approach}}
+    \field{volume}{47}
+    \field{journaltitle}{GeoJournal}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Babbie:2010vh}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BR}{%
+         family={Babbie},
+         family_i={B\bibinitperiod},
+         given={R},
+         given_i={R},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cengage Learning}%
+    }
+    \strng{namehash}{BR1}
+    \strng{fullhash}{BR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{The Basics of Social Research}}
+    \field{year}{2010}
+  \endentry
+
+  \entry{Holley:2015te}{report}{}
+    \name{author}{2}{}{%
+      {{hash=HC}{%
+         family={Holley},
+         family_i={H\bibinitperiod},
+         given={Cameron},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sinclair},
+         family_i={S\bibinitperiod},
+         given={Darren},
+         given_i={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCSD1}
+    \strng{fullhash}{HCSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Water extraction in NSW: Stakeholder views and experience of
+  compliance and enforcement}}
+    \field{type}{techreport}
+    \field{month}{10}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Grimm:2006it}{article}{}
+    \name{author}{28}{}{%
+      {{hash=GV}{%
+         family={Grimm},
+         family_i={G\bibinitperiod},
+         given={Volker},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=BU}{%
+         family={Berger},
+         family_i={B\bibinitperiod},
+         given={Uta},
+         given_i={U\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bastiansen},
+         family_i={B\bibinitperiod},
+         given={Finn},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Eliassen},
+         family_i={E\bibinitperiod},
+         given={Sigrunn},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=GV}{%
+         family={Ginot},
+         family_i={G\bibinitperiod},
+         given={Vincent},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Giske},
+         family_i={G\bibinitperiod},
+         given={Jarl},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=GCJ}{%
+         family={Goss-Custard},
+         family_i={G\bibinitperiod-C\bibinitperiod},
+         given={John},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Grand},
+         family_i={G\bibinitperiod},
+         given={Tamara},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=HSK}{%
+         family={Heinz},
+         family_i={H\bibinitperiod},
+         given={Simone\bibnamedelima K},
+         given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Huse},
+         family_i={H\bibinitperiod},
+         given={Geir},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Huth},
+         family_i={H\bibinitperiod},
+         given={Andreas},
+         given_i={A\bibinitperiod},
+      }}%
+      {{hash=JJU}{%
+         family={Jepsen},
+         family_i={J\bibinitperiod},
+         given={Jane\bibnamedelima U},
+         given_i={J\bibinitperiod\bibinitdelim U\bibinitperiod},
+      }}%
+      {{hash=JC}{%
+         family={J{\o}rgensen},
+         family_i={J\bibinitperiod},
+         given={Christian},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MWM}{%
+         family={Mooij},
+         family_i={M\bibinitperiod},
+         given={Wolf\bibnamedelima M},
+         given_i={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={M{\"u}ller},
+         family_i={M\bibinitperiod},
+         given={Birgit},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=PG}{%
+         family={Pe{\textquoteright}er},
+         family_i={P\bibinitperiod},
+         given={Guy},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=PC}{%
+         family={Piou},
+         family_i={P\bibinitperiod},
+         given={Cyril},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=RSF}{%
+         family={Railsback},
+         family_i={R\bibinitperiod},
+         given={Steven\bibnamedelima F},
+         given_i={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=RAM}{%
+         family={Robbins},
+         family_i={R\bibinitperiod},
+         given={Andrew\bibnamedelima M},
+         given_i={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RMM}{%
+         family={Robbins},
+         family_i={R\bibinitperiod},
+         given={Martha\bibnamedelima M},
+         given_i={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rossmanith},
+         family_i={R\bibinitperiod},
+         given={Eva},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={R{\"u}ger},
+         family_i={R\bibinitperiod},
+         given={Nadja},
+         given_i={N\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Strand},
+         family_i={S\bibinitperiod},
+         given={Espen},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Souissi},
+         family_i={S\bibinitperiod},
+         given={Sami},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=SRA}{%
+         family={Stillman},
+         family_i={S\bibinitperiod},
+         given={Richard\bibnamedelima A},
+         given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Vab{\o}},
+         family_i={V\bibinitperiod},
+         given={Rune},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=VU}{%
+         family={Visser},
+         family_i={V\bibinitperiod},
+         given={Ute},
+         given_i={U\bibinitperiod},
+      }}%
+      {{hash=DDL}{%
+         family={DeAngelis},
+         family_i={D\bibinitperiod},
+         given={Donald\bibnamedelima L},
+         given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GV+1}
+  \strng{fullhash}{GVBUBFESGVGJGCJGTHSKHGHAJJUJCMWMMBPGPCRSFRAMRMMRERNSESSSRAVRVUDDL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1-2}
+    \field{pages}{115\bibrangedash 126}
+    \field{title}{{A standard protocol for describing individual-based and
+  agent-based models}}
+    \field{volume}{198}
+    \field{journaltitle}{Ecological Modelling}
+    \field{month}{09}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Muller:2013dk}{article}{}
+    \name{author}{10}{}{%
+      {{hash=MB}{%
+         family={M{\"u}ller},
+         family_i={M\bibinitperiod},
+         given={Birgit},
+         given_i={B\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bohn},
+         family_i={B\bibinitperiod},
+         given={Friedrich},
+         given_i={F\bibinitperiod},
+      }}%
+      {{hash=DG}{%
+         family={Dre{\ss}ler},
+         family_i={D\bibinitperiod},
+         given={Gunnar},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Groeneveld},
+         family_i={G\bibinitperiod},
+         given={J{\"u}rgen},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Klassert},
+         family_i={K\bibinitperiod},
+         given={Christian},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Martin},
+         family_i={M\bibinitperiod},
+         given={Romina},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Schl{\"u}ter},
+         family_i={S\bibinitperiod},
+         given={Maja},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Schulze},
+         family_i={S\bibinitperiod},
+         given={Jule},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=WH}{%
+         family={Weise},
+         family_i={W\bibinitperiod},
+         given={Hanna},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Schwarz},
+         family_i={S\bibinitperiod},
+         given={Nina},
+         given_i={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MB+1}
+    \strng{fullhash}{MBBFDGGJKCMRSMSJWHSN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{37\bibrangedash 48}
+    \field{title}{{Describing human decisions in agent-based models
+  {\textendash} ODD~+~D, an extension of the ODD protocol}}
+    \field{volume}{48}
+    \field{journaltitle}{Environmental Modelling {\&} Software}
+    \field{month}{10}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Scheffer:2012ct}{article}{}
+    \name{author}{12}{}{%
+      {{hash=SM}{%
+         family={Scheffer},
+         family_i={S\bibinitperiod},
+         given={Marten},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=CSR}{%
+         family={Carpenter},
+         family_i={C\bibinitperiod},
+         given={Stephen\bibnamedelima R},
+         given_i={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=LTM}{%
+         family={Lenton},
+         family_i={L\bibinitperiod},
+         given={Timothy\bibnamedelima M},
+         given_i={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bascompte},
+         family_i={B\bibinitperiod},
+         given={Jordi},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=BW}{%
+         family={Brock},
+         family_i={B\bibinitperiod},
+         given={William},
+         given_i={W\bibinitperiod},
+      }}%
+      {{hash=DV}{%
+         family={Dakos},
+         family_i={D\bibinitperiod},
+         given={Vasilis},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=vdKJ}{%
+         prefix={van\bibnamedelima de},
+         prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Koppel},
+         family_i={K\bibinitperiod},
+         given={Johan},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=vdLIA}{%
+         prefix={van\bibnamedelima de},
+         prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Leemput},
+         family_i={L\bibinitperiod},
+         given={Ingrid\bibnamedelima A},
+         given_i={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=LSA}{%
+         family={Levin},
+         family_i={L\bibinitperiod},
+         given={Simon\bibnamedelima A},
+         given_i={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=vNEH}{%
+         prefix={van},
+         prefix_i={v\bibinitperiod},
+         family={Nes},
+         family_i={N\bibinitperiod},
+         given={Egbert\bibnamedelima H},
+         given_i={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pascual},
+         family_i={P\bibinitperiod},
+         given={Mercedes},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=VJ}{%
+         family={Vandermeer},
+         family_i={V\bibinitperiod},
+         given={John},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMCSRLTMBJBWDVvdKJvdLIALSAvNEHPMVJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6105}
+    \field{pages}{344\bibrangedash 348}
+    \field{title}{{Anticipating critical transitions.}}
+    \field{volume}{338}
+    \field{journaltitle}{Science}
+    \field{month}{10}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Scheffer:2001ij}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SM}{%
+         family={Scheffer},
+         family_i={S\bibinitperiod},
+         given={Marten},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=CS}{%
+         family={Carpenter},
+         family_i={C\bibinitperiod},
+         given={Steve},
+         given_i={S\bibinitperiod},
+      }}%
+      {{hash=FJA}{%
+         family={Foley},
+         family_i={F\bibinitperiod},
+         given={Jonathan\bibnamedelima A},
+         given_i={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Folke},
+         family_i={F\bibinitperiod},
+         given={Carl},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Walker},
+         family_i={W\bibinitperiod},
+         given={Brian},
+         given_i={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMCSFJAFCWB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{6856}
+    \field{pages}{591\bibrangedash 596}
+    \field{title}{{Catastrophic shifts in ecosystems}}
+    \field{volume}{413}
+    \field{journaltitle}{Nature}
+    \field{month}{10}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Scheffer:2009gg}{article}{}
+    \name{author}{10}{}{%
+      {{hash=SM}{%
+         family={Scheffer},
+         family_i={S\bibinitperiod},
+         given={Marten},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bascompte},
+         family_i={B\bibinitperiod},
+         given={Jordi},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=BWA}{%
+         family={Brock},
+         family_i={B\bibinitperiod},
+         given={William\bibnamedelima A},
+         given_i={W\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BV}{%
+         family={Brovkin},
+         family_i={B\bibinitperiod},
+         given={Victor},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=CSR}{%
+         family={Carpenter},
+         family_i={C\bibinitperiod},
+         given={Stephen\bibnamedelima R},
+         given_i={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=DV}{%
+         family={Dakos},
+         family_i={D\bibinitperiod},
+         given={Vasilis},
+         given_i={V\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Held},
+         family_i={H\bibinitperiod},
+         given={Hermann},
+         given_i={H\bibinitperiod},
+      }}%
+      {{hash=vNEH}{%
+         prefix={van},
+         prefix_i={v\bibinitperiod},
+         family={Nes},
+         family_i={N\bibinitperiod},
+         given={Egbert\bibnamedelima H},
+         given_i={E\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rietkerk},
+         family_i={R\bibinitperiod},
+         given={Max},
+         given_i={M\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sugihara},
+         family_i={S\bibinitperiod},
+         given={George},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM+1}
+    \strng{fullhash}{SMBJBWABVCSRDVHHvNEHRMSG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7260}
+    \field{pages}{53\bibrangedash 59}
+    \field{title}{{Early-warning signals for critical transitions}}
+    \field{volume}{461}
+    \field{journaltitle}{Nature News}
+    \field{month}{03}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Miller:2009uu}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MJH}{%
+         family={Miller},
+         family_i={M\bibinitperiod},
+         given={John\bibnamedelima H},
+         given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=PSE}{%
+         family={Page},
+         family_i={P\bibinitperiod},
+         given={Scott\bibnamedelima E},
+         given_i={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{MJHPSE1}
+    \strng{fullhash}{MJHPSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{An Introduction to Computational Models of Social Life}
+    \field{title}{{Complex Adaptive Systems: An Introduction to Computational
+  Models of Social Life}}
+    \field{month}{11}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Fetter:2001tx}{book}{}
+    \name{author}{1}{}{%
+      {{hash=FCW}{%
+         family={Fetter},
+         family_i={F\bibinitperiod},
+         given={C\bibnamedelima W},
+         given_i={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall, Columbus, Ohio}%
+    }
+    \strng{namehash}{FCW1}
+    \strng{fullhash}{FCW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Applied Hydrogeology}}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Simon:1955bf}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SHA}{%
+         family={Simon},
+         family_i={S\bibinitperiod},
+         given={Herbert\bibnamedelima A},
+         given_i={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SHA1}
+    \strng{fullhash}{SHA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{99\bibrangedash 118}
+    \field{title}{{A Behavioral Model of Rational Choice}}
+    \field{volume}{69}
+    \field{journaltitle}{The Quarterly Journal of Economics}
+    \field{month}{02}
+    \field{year}{1955}
+  \endentry
+
+  \entry{Deadman:to}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DP}{%
+         family={Deadman},
+         family_i={D\bibinitperiod},
+         given={P},
+         given_i={P},
+      }}%
+      {{hash=GRH}{%
+         family={Gimblett},
+         family_i={G\bibinitperiod},
+         given={R\bibnamedelima H},
+         given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPGRH1}
+    \strng{fullhash}{DPGRH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{8}
+    \field{pages}{121\bibrangedash 133}
+    \field{title}{{A role for goal-oriented autonomous agents in modeling
+  people-environment interactions in forest recreation}}
+    \field{volume}{20}
+    \field{journaltitle}{Mathematical and Computer Modelling}
+  \endentry
+
+  \entry{Ostrom:1994ti}{book}{}
+    \name{author}{3}{}{%
+      {{hash=OE}{%
+         family={Ostrom},
+         family_i={O\bibinitperiod},
+         given={Elinor},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gardner},
+         family_i={G\bibinitperiod},
+         given={Roy},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Walker},
+         family_i={W\bibinitperiod},
+         given={Jimmy},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {University of Michigan Press}%
+    }
+    \strng{namehash}{OE+1}
+    \strng{fullhash}{OEGRWJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Rules, games, and common-pool resources}}
+    \field{year}{1994}
+  \endentry
+
+  \entry{Gigerenzer:2007wy}{book}{}
+    \name{author}{1}{}{%
+      {{hash=GG}{%
+         family={Gigerenzer},
+         family_i={G\bibinitperiod},
+         given={Gerd},
+         given_i={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Penguin}%
+    }
+    \strng{namehash}{GG1}
+    \strng{fullhash}{GG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{The Intelligence of the Unconscious}
+    \field{title}{{Gut Feelings}}
+    \field{month}{07}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Gigerenzer:2002tn}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GG}{%
+         family={Gigerenzer},
+         family_i={G\bibinitperiod},
+         given={Gerd},
+         given_i={G\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Selten},
+         family_i={S\bibinitperiod},
+         given={Reinhard},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{GGSR1}
+    \strng{fullhash}{GGSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{The Adaptive Toolbox}
+    \field{title}{{Bounded Rationality}}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Gotts:2009td}{article}{}
+    \name{author}{2}{}{%
+      {{hash=GNM}{%
+         family={Gotts},
+         family_i={G\bibinitperiod},
+         given={Nicholas\bibnamedelima M},
+         given_i={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=PJG}{%
+         family={Polhill},
+         family_i={P\bibinitperiod},
+         given={J\bibnamedelima Gary},
+         given_i={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GNMPJG1}
+    \strng{fullhash}{GNMPJG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{When and How to Imitate Your Neighbours: Lessons from and
+  for FEARLUS}}
+    \field{month}{06}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Axelrod:1986vx}{article}{}
+    \name{author}{1}{}{%
+      {{hash=AR}{%
+         family={Axelrod},
+         family_i={A\bibinitperiod},
+         given={Robert},
+         given_i={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AR1}
+    \strng{fullhash}{AR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{04}
+    \field{pages}{1095\bibrangedash 1111}
+    \field{title}{{An evolutionary approach to norms}}
+    \field{volume}{80}
+    \field{journaltitle}{American Political Science Review}
+    \field{year}{1986}
+  \endentry
+
+  \entry{Margat:2013ty}{book}{}
+    \name{author}{2}{}{%
+      {{hash=MJ}{%
+         family={Margat},
+         family_i={M\bibinitperiod},
+         given={Jean},
+         given_i={J\bibinitperiod},
+      }}%
+      {{hash=VdGJ}{%
+         prefix={Van\bibnamedelima der},
+         prefix_i={V\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Gun},
+         family_i={G\bibinitperiod},
+         given={Jac},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {CRC Press}%
+    }
+    \strng{namehash}{MJVdGJ1}
+    \strng{fullhash}{MJVdGJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{A Geographic Synopsis}
+    \field{title}{{Groundwater around the World}}
+    \field{month}{03}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Nowak:2012hj}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NMA}{%
+         family={Nowak},
+         family_i={N\bibinitperiod},
+         given={Martin\bibnamedelima A},
+         given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NMA1}
+    \strng{fullhash}{NMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{34\bibrangedash 39}
+    \field{title}{{Why We Help}}
+    \field{volume}{307}
+    \field{journaltitle}{Sci Am}
+    \field{month}{06}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Axelrod:1997ug}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ARM}{%
+         family={Axelrod},
+         family_i={A\bibinitperiod},
+         given={Robert\bibnamedelima M},
+         given_i={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Princeton University Press}%
+    }
+    \strng{namehash}{ARM1}
+    \strng{fullhash}{ARM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{The complexity of cooperation: Agent-based models of
+  competition and collaboration}}
+    \field{year}{1997}
+  \endentry
+
+  \entry{Ostrom:1990ws}{book}{}
+    \name{author}{1}{}{%
+      {{hash=OE}{%
+         family={Ostrom},
+         family_i={O\bibinitperiod},
+         given={Elinor},
+         given_i={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \strng{namehash}{OE2}
+    \strng{fullhash}{OE2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{series}{The Evolution of Institutions for Collective Action}
+    \field{title}{{Governing the Commons}}
+    \field{month}{11}
+    \field{year}{1990}
+  \endentry
+
+  \entry{Ostrom:1999gn}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OE}{%
+         family={Ostrom},
+         family_i={O\bibinitperiod},
+         given={E},
+         given_i={E},
+      }}%
+    }
+    \strng{namehash}{OE1}
+    \strng{fullhash}{OE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5412}
+    \field{pages}{278\bibrangedash 282}
+    \field{title}{{Revisiting the Commons: Local Lessons, Global Challenges}}
+    \field{volume}{284}
+    \field{journaltitle}{Science}
+    \field{month}{04}
+    \field{year}{1999}
+  \endentry
+
+  \entry{Dietz:2003tp}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DT}{%
+         family={Dietz},
+         family_i={D\bibinitperiod},
+         given={Thomas},
+         given_i={T\bibinitperiod},
+      }}%
+      {{hash=OE}{%
+         family={Ostrom},
+         family_i={O\bibinitperiod},
+         given={Elinor},
+         given_i={E\bibinitperiod},
+      }}%
+      {{hash=SPC}{%
+         family={Stern},
+         family_i={S\bibinitperiod},
+         given={Paul\bibnamedelima C},
+         given_i={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DT+1}
+    \strng{fullhash}{DTOESPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5652}
+    \field{pages}{1907\bibrangedash 1912}
+    \field{title}{{The struggle to govern the commons}}
+    \field{volume}{302}
+    \field{journaltitle}{Science}
+    \field{year}{2003}
+  \endentry
+
+  \entry{CastillaRho:2015dr}{article}{}
+    \name{author}{5}{}{%
+      {{hash=CRJC}{%
+         family={Castilla-Rho},
+         family_i={C\bibinitperiod-R\bibinitperiod},
+         given={J\bibnamedelima C},
+         given_i={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Mariethoz},
+         family_i={M\bibinitperiod},
+         given={G},
+         given_i={G},
+      }}%
+      {{hash=RR}{%
+         family={Rojas},
+         family_i={R\bibinitperiod},
+         given={R},
+         given_i={R},
+      }}%
+      {{hash=AMS}{%
+         family={Andersen},
+         family_i={A\bibinitperiod},
+         given={M\bibnamedelima S},
+         given_i={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=KBFJ}{%
+         family={Kelly},
+         family_i={K\bibinitperiod},
+         given={B\bibnamedelima F\bibnamedelima J},
+         given_i={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim
+  J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CRJC+1}
+    \strng{fullhash}{CRJCMGRRAMSKBFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{305\bibrangedash 323}
+    \field{title}{{An agent-based platform for simulating complex
+  human{\textendash}aquifer interactions in managed groundwater systems}}
+    \field{volume}{73}
+    \field{journaltitle}{Environmental Modelling {\&} Software}
+    \field{month}{11}
+    \field{year}{2015}
+  \endentry
+
+  \entry{Foa:2012jj}{article}{}
+    \name{author}{2}{}{%
+      {{hash=FR}{%
+         family={Foa},
+         family_i={F\bibinitperiod},
+         given={Roberto},
+         given_i={R\bibinitperiod},
+      }}%
+      {{hash=TJ}{%
+         family={Tanner},
+         family_i={T\bibinitperiod},
+         given={Jeffery},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FRTJ1}
+    \strng{fullhash}{FRTJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{341\bibrangedash 378}
+    \field{title}{{Methodology of the indices of social development}}
+    \field{volume}{18}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Jalota:2007ha}{article}{}
+    \name{author}{4}{}{%
+      {{hash=JSK}{%
+         family={Jalota},
+         family_i={J\bibinitperiod},
+         given={S\bibnamedelima K},
+         given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Sood},
+         family_i={S\bibinitperiod},
+         given={A},
+         given_i={A},
+      }}%
+      {{hash=VJD}{%
+         family={Vitale},
+         family_i={V\bibinitperiod},
+         given={J\bibnamedelima D},
+         given_i={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Srinivasan},
+         family_i={S\bibinitperiod},
+         given={R},
+         given_i={R},
+      }}%
+    }
+    \strng{namehash}{JSK+1}
+    \strng{fullhash}{JSKSAVJDSR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{1073}
+    \field{title}{{Simulated Crop Yields Response to Irrigation Water and
+  Economic Analysis}}
+    \field{volume}{99}
+    \field{journaltitle}{Agronomy Journal}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Singh:2009jo}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SKB}{%
+         family={Singh},
+         family_i={S\bibinitperiod},
+         given={K\bibnamedelima B},
+         given_i={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=JSK}{%
+         family={Jalota},
+         family_i={J\bibinitperiod},
+         given={S\bibnamedelima K},
+         given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=SBD}{%
+         family={Sharma},
+         family_i={S\bibinitperiod},
+         given={B\bibnamedelima D},
+         given_i={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SKB+1}
+    \strng{fullhash}{SKBJSKSBD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{17-18}
+    \field{pages}{2945\bibrangedash 2958}
+    \field{title}{{Effect of Continuous Rice{\textendash}Wheat Rotation on Soil
+  Properties from Four Agro-ecosystems of Indian Punjab}}
+    \field{volume}{40}
+    \field{journaltitle}{Communications in Soil Science and Plant Analysis}
+    \field{month}{09}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Ostrom:2000cd}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OE}{%
+         family={Ostrom},
+         family_i={O\bibinitperiod},
+         given={Elinor},
+         given_i={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OE2}
+    \strng{fullhash}{OE2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{3}
+    \field{pages}{137\bibrangedash 158}
+    \field{title}{{Collective action and the evolution of social norms}}
+    \field{volume}{14}
+    \field{journaltitle}{Journal of Economic Perspectives}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Nowak:2006bt}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NMA}{%
+         family={Nowak},
+         family_i={N\bibinitperiod},
+         given={Martin\bibnamedelima A},
+         given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NMA1}
+    \strng{fullhash}{NMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{5805}
+    \field{pages}{1560\bibrangedash 1563}
+    \field{title}{{Five rules for the evolution of cooperation.}}
+    \field{volume}{314}
+    \field{journaltitle}{Science}
+    \field{month}{12}
+    \field{year}{2006}
+  \endentry
+
+  \entry{Holley:2012tg}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HC}{%
+         family={Holley},
+         family_i={H\bibinitperiod},
+         given={Cameron},
+         given_i={C\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sinclair},
+         family_i={S\bibinitperiod},
+         given={Darren},
+         given_i={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCSD1}
+    \strng{fullhash}{HCSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{149}
+    \field{title}{{Compliance and enforcement of water licences in NSW:
+  limitations in law, policy and institutions}}
+    \field{volume}{15}
+    \field{journaltitle}{Australasian Journal of Natural Resources Law and
+  Policy}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Ayres:1992vm}{book}{}
+    \name{author}{2}{}{%
+      {{hash=AI}{%
+         family={Ayres},
+         family_i={A\bibinitperiod},
+         given={Ian},
+         given_i={I\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Braithwaite},
+         family_i={B\bibinitperiod},
+         given={John},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \strng{namehash}{AIBJ1}
+    \strng{fullhash}{AIBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{{Responsive regulation: Transcending the deregulation
+  debate}}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Braithwaite:2012wb}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Braithwaite},
+         family_i={B\bibinitperiod},
+         given={John},
+         given_i={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{475\bibrangedash 520}
+    \field{title}{{The essence of responsive regulation}}
+    \field{volume}{44}
+    \field{journaltitle}{University of British Columbia Law Review}
+    \field{month}{05}
+    \field{year}{2012}
+  \endentry
+\endsortlist
+\endinput
