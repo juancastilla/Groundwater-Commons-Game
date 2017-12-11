@@ -1,0 +1,962 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdftex 2017.4.9)  6 JUL 2017 17:33
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Table_TargetQuestions_WVS.tex
+(./Table_TargetQuestions_WVS.tex
+./Table_TargetQuestions_WVS.tex:3: Undefined control sequence.
+l.3 \begin
+          {sidewaystable}[]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:4: Undefined control sequence.
+l.4 \begin
+          {adjustbox}{width=\paperwidth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:4: Undefined control sequence.
+l.4 \begin{adjustbox}{width=\paperwidth
+                                       }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:5: Undefined control sequence.
+l.5 \begin
+          {tabular}[]{p{0.1\textwidth}lp{0.1\textwidth}p{0.35\textwidth}lllll}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:5: Undefined control sequence.
+l.5 \begin{tabular}[]{p{0.1\textwidth
+                                     }lp{0.1\textwidth}p{0.35\textwidth}lllll}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:5: Undefined control sequence.
+l.5 ...tabular}[]{p{0.1\textwidth}lp{0.1\textwidth
+                                                  }p{0.35\textwidth}lllll}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:5: Undefined control sequence.
+l.5 ...textwidth}lp{0.1\textwidth}p{0.35\textwidth
+                                                  }lllll}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:6: Undefined control sequence.
+l.6 \toprule
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:7: Undefined control sequence.
+l.7 \textbf
+           {Cultural dimension} &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:7: Misplaced alignment tab character &.
+l.7 \textbf{Cultural dimension} &
+                                 
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:8: Undefined control sequence.
+l.8 \textbf
+           {Variable} &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:8: Misplaced alignment tab character &.
+l.8 \textbf{Variable} &
+                       
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:9: Undefined control sequence.
+l.9 \textbf
+           {question code} &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:9: Misplaced alignment tab character &.
+l.9 \textbf{question code} &
+                            
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:10: Undefined control sequence.
+l.10 \textbf
+            {Value orientation
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:11: Misplaced alignment tab character &.
+l.11 question} &
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:12: Undefined control sequence.
+l.12 \textbf
+            {High } &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:12: Misplaced alignment tab character &.
+l.12 \textbf{High } &
+                     
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:13: Undefined control sequence.
+l.13 \textbf
+            {Low} &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:13: Misplaced alignment tab character &.
+l.13 \textbf{Low} &
+                   
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:14: Undefined control sequence.
+l.14 \textbf
+            {Mean} &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:14: Misplaced alignment tab character &.
+l.14 \textbf{Mean} &
+                    
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:15: Undefined control sequence.
+l.15 \textbf
+            {SD} & \textbf{F-value*}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:15: Misplaced alignment tab character &.
+l.15 \textbf{SD} &
+                   \textbf{F-value*}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:15: Undefined control sequence.
+l.15 \textbf{SD} & \textbf
+                          {F-value*}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:16: Undefined control sequence.
+l.16 \tabularnewline
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:17: Undefined control sequence.
+l.17 \midrule
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:18: Undefined control sequence.
+l.18 \textbf
+            {GRID} & \textbf{Grid 1} & V9 & \emph{Religion} & Important & Not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:18: Misplaced alignment tab character &.
+l.18 \textbf{GRID} &
+                     \textbf{Grid 1} & V9 & \emph{Religion} & Important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:18: Undefined control sequence.
+l.18 \textbf{GRID} & \textbf
+                            {Grid 1} & V9 & \emph{Religion} & Important & Not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:18: Misplaced alignment tab character &.
+l.18 \textbf{GRID} & \textbf{Grid 1} &
+                                       V9 & \emph{Religion} & Important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:18: Misplaced alignment tab character &.
+l.18 \textbf{GRID} & \textbf{Grid 1} & V9 &
+                                            \emph{Religion} & Important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:18: Undefined control sequence.
+l.18 \textbf{GRID} & \textbf{Grid 1} & V9 & \emph
+                                                 {Religion} & Important & Not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:18: Misplaced alignment tab character &.
+l.18 ...& \textbf{Grid 1} & V9 & \emph{Religion} &
+                                                   Important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:18: Misplaced alignment tab character &.
+l.18 ...id 1} & V9 & \emph{Religion} & Important &
+                                                   Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:19: Misplaced alignment tab character &.
+l.19 important &
+                 0.71 & 0.35 & 820.7\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:19: Misplaced alignment tab character &.
+l.19 important & 0.71 &
+                        0.35 & 820.7\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:19: Misplaced alignment tab character &.
+l.19 important & 0.71 & 0.35 &
+                               820.7\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:19: Undefined control sequence.
+l.19 ...rtant & 0.71 & 0.35 & 820.7\tabularnewline
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:20: Misplaced alignment tab character &.
+l.20 &
+       \textbf{Grid 2} & V164 & \emph{Job old/young} & Old acceptable & Old
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:20: Undefined control sequence.
+l.20 & \textbf
+              {Grid 2} & V164 & \emph{Job old/young} & Old acceptable & Old
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:20: Misplaced alignment tab character &.
+l.20 & \textbf{Grid 2} &
+                         V164 & \emph{Job old/young} & Old acceptable & Old
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:20: Misplaced alignment tab character &.
+l.20 & \textbf{Grid 2} & V164 &
+                                \emph{Job old/young} & Old acceptable & Old
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:20: Undefined control sequence.
+l.20 & \textbf{Grid 2} & V164 & \emph
+                                     {Job old/young} & Old acceptable & Old
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:20: Misplaced alignment tab character &.
+l.20 ...bf{Grid 2} & V164 & \emph{Job old/young} &
+                                                   Old acceptable & Old
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:20: Misplaced alignment tab character &.
+l.20 ... & \emph{Job old/young} & Old acceptable &
+                                                   Old
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:21: Misplaced alignment tab character &.
+l.21 unacceptable &
+                    0.44 & 0.30 & 44.8\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:21: Misplaced alignment tab character &.
+l.21 unacceptable & 0.44 &
+                           0.30 & 44.8\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:21: Misplaced alignment tab character &.
+l.21 unacceptable & 0.44 & 0.30 &
+                                  44.8\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:21: Undefined control sequence.
+l.21 ...ptable & 0.44 & 0.30 & 44.8\tabularnewline
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:22: Misplaced alignment tab character &.
+l.22 &
+       \textbf{Grid 3} & V21 & \emph{Follow instructions} & Yes & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:22: Undefined control sequence.
+l.22 & \textbf
+              {Grid 3} & V21 & \emph{Follow instructions} & Yes & Not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:22: Misplaced alignment tab character &.
+l.22 & \textbf{Grid 3} &
+                         V21 & \emph{Follow instructions} & Yes & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:22: Misplaced alignment tab character &.
+l.22 & \textbf{Grid 3} & V21 &
+                               \emph{Follow instructions} & Yes & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:22: Undefined control sequence.
+l.22 & \textbf{Grid 3} & V21 & \emph
+                                    {Follow instructions} & Yes & Not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:22: Misplaced alignment tab character &.
+l.22 ...id 3} & V21 & \emph{Follow instructions} &
+                                                   Yes & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:22: Misplaced alignment tab character &.
+l.22 ...& V21 & \emph{Follow instructions} & Yes &
+                                                   Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:23: Misplaced alignment tab character &.
+l.23 necessary &
+                 0.41 & 0.49 & 79.3\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:23: Misplaced alignment tab character &.
+l.23 necessary & 0.41 &
+                        0.49 & 79.3\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:23: Misplaced alignment tab character &.
+l.23 necessary & 0.41 & 0.49 &
+                               79.3\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:23: Undefined control sequence.
+l.23 necessary & 0.41 & 0.49 & 79.3\tabularnewline
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:24: Misplaced alignment tab character &.
+l.24 &
+       \textbf{Grid 4} & V69 & \emph{Respect authority} & Yes & No & 0.74 &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:24: Undefined control sequence.
+l.24 & \textbf
+              {Grid 4} & V69 & \emph{Respect authority} & Yes & No & 0.74 &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:24: Misplaced alignment tab character &.
+l.24 & \textbf{Grid 4} &
+                         V69 & \emph{Respect authority} & Yes & No & 0.74 &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:24: Misplaced alignment tab character &.
+l.24 & \textbf{Grid 4} & V69 &
+                               \emph{Respect authority} & Yes & No & 0.74 &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:24: Undefined control sequence.
+l.24 & \textbf{Grid 4} & V69 & \emph
+                                    {Respect authority} & Yes & No & 0.74 &
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:24: Misplaced alignment tab character &.
+l.24 ...Grid 4} & V69 & \emph{Respect authority} &
+                                                   Yes & No & 0.74 &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:24: Misplaced alignment tab character &.
+l.24 ...} & V69 & \emph{Respect authority} & Yes &
+                                                   No & 0.74 &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:24: Misplaced alignment tab character &.
+l.24 ...69 & \emph{Respect authority} & Yes & No &
+                                                   0.74 &
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:24: Misplaced alignment tab character &.
+l.24 ...mph{Respect authority} & Yes & No & 0.74 &
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:25: Misplaced alignment tab character &.
+l.25 0.35 &
+            402.4\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:25: Undefined control sequence.
+l.25 0.35 & 402.4\tabularnewline
+                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:26: Misplaced alignment tab character &.
+l.26 &
+       \textbf{Grid 5} & V152 & \emph{Religion (God)} & God important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:26: Undefined control sequence.
+l.26 & \textbf
+              {Grid 5} & V152 & \emph{Religion (God)} & God important & Not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:26: Misplaced alignment tab character &.
+l.26 & \textbf{Grid 5} &
+                         V152 & \emph{Religion (God)} & God important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:26: Misplaced alignment tab character &.
+l.26 & \textbf{Grid 5} & V152 &
+                                \emph{Religion (God)} & God important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:26: Undefined control sequence.
+l.26 & \textbf{Grid 5} & V152 & \emph
+                                     {Religion (God)} & God important & Not
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:26: Misplaced alignment tab character &.
+l.26 ...f{Grid 5} & V152 & \emph{Religion (God)} &
+                                                   God important & Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:26: Misplaced alignment tab character &.
+l.26 ... & \emph{Religion (God)} & God important &
+                                                   Not
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:27: Misplaced alignment tab character &.
+l.27 important &
+                 0.75 & 0.33 & 114.5\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:27: Misplaced alignment tab character &.
+l.27 important & 0.75 &
+                        0.33 & 114.5\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:27: Misplaced alignment tab character &.
+l.27 important & 0.75 & 0.33 &
+                               114.5\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:27: Undefined control sequence.
+l.27 ...rtant & 0.75 & 0.33 & 114.5\tabularnewline
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:28: Misplaced alignment tab character &.
+l.28 &
+       \textbf{Grid 6} & V203 & \emph{Justifiable: homosexuality} & Never
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:28: Undefined control sequence.
+l.28 & \textbf
+              {Grid 6} & V203 & \emph{Justifiable: homosexuality} & Never
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:28: Misplaced alignment tab character &.
+l.28 & \textbf{Grid 6} &
+                         V203 & \emph{Justifiable: homosexuality} & Never
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:28: Misplaced alignment tab character &.
+l.28 & \textbf{Grid 6} & V203 &
+                                \emph{Justifiable: homosexuality} & Never
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:28: Undefined control sequence.
+l.28 & \textbf{Grid 6} & V203 & \emph
+                                     {Justifiable: homosexuality} & Never
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:28: Misplaced alignment tab character &.
+l.28 ...V203 & \emph{Justifiable: homosexuality} &
+                                                   Never
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:29: Misplaced alignment tab character &.
+l.29 justifiable &
+                   Justifiable & 0.75 & 0.34 & 52.8\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:29: Misplaced alignment tab character &.
+l.29 justifiable & Justifiable &
+                                 0.75 & 0.34 & 52.8\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:29: Misplaced alignment tab character &.
+l.29 justifiable & Justifiable & 0.75 &
+                                        0.34 & 52.8\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:29: Misplaced alignment tab character &.
+l.29 justifiable & Justifiable & 0.75 & 0.34 &
+                                               52.8\tabularnewline
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:29: Undefined control sequence.
+l.29 ...fiable & 0.75 & 0.34 & 52.8\tabularnewline
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:30: Misplaced alignment tab character &.
+l.30 &
+       \textbf{Grid 7} & V203A & \emph{Justifiable: prostitution} & Never
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:30: Undefined control sequence.
+l.30 & \textbf
+              {Grid 7} & V203A & \emph{Justifiable: prostitution} & Never
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:30: Misplaced alignment tab character &.
+l.30 & \textbf{Grid 7} &
+                         V203A & \emph{Justifiable: prostitution} & Never
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:30: Misplaced alignment tab character &.
+l.30 & \textbf{Grid 7} & V203A &
+                                 \emph{Justifiable: prostitution} & Never
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Table_TargetQuestions_WVS.tex:30: Undefined control sequence.
+l.30 & \textbf{Grid 7} & V203A & \emph
+                                      {Justifiable: prostitution} & Never
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./Table_TargetQuestions_WVS.tex:30: Misplaced alignment tab character &.
+l.30 ...V203A & \emph{Justifiable: prostitution} &
+                                                   Never
+(That makes 100 errors; please try again.)
+./Table_TargetQuestions_WVS.tex:30:  ==> Fatal error occurred, no output PDF file produced!
