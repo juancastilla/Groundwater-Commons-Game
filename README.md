@@ -1,1 +1,1 @@
-# Groundwater_Commons_Game
+# Online repository of the Groundwater Commons Game
